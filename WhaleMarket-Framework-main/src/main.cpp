@@ -3,5 +3,6 @@
 int main() {
     welcomeMessage();
     invalidMessage();
+    
     return 0;
 }
