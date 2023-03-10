@@ -1,4 +1,4 @@
-#include "tools/hint.h"
+#include "tools/global.h"
 
 int main() {
     welcomeMessage();
